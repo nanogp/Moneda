@@ -141,7 +141,7 @@ int buscarEnArrayInt(int array[], int limite, int buscar)
     return retorno;
 }
 
-void imprimirEnPantalla(char texto[])
+void imprimirEnPantalla(char* texto)
 {
     printf("%s", texto);
 }
