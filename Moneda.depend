@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1526582315 source:d:\github\moneda\general.c
+	"General.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526582399 d:\github\moneda\general.h
+
+1526680788 source:d:\github\moneda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Menu.h"
+	"Moneda.h"
+
+1526582089 source:d:\github\moneda\menu.c
+	<stdio.h>
+	"Menu.h"
+	"General.h"
+
+1526582419 d:\github\moneda\menu.h
+
+1526680735 source:d:\github\moneda\moneda.c
+	"Moneda.h"
+	<stdio.h>
+	<string.h>
+
+1526680146 d:\github\moneda\moneda.h
+	"General.h"
+	"Menu.h"
+
